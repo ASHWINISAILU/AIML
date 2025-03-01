@@ -207,6 +207,8 @@ Fig 19 shows the important features impacting the arrival flight delay. This gra
 
 
 **Conclusion**
+
+
 The factors highly impacting the arrival delays are arrivals after 15 minutes, followed by late aircraft delay, carrier delay, NAS delay, and least weather delay. The rest of the features do not contribute to the arrival flight delays in U.S. airports over the last 10 years. Though most of the features are multi-related. The flight and airport operation team should bring some better approach to reduce these five delaying factors which in turn reduces the overall arrival flight delays in U.S airports which will make their operational structure more effective and efficient.
 
 
